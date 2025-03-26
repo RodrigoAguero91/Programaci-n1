@@ -1,2 +1,2 @@
-# Programaci-n1
+# Programacion1
 Creando repositorio para programación 1
