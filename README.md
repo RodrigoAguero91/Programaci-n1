@@ -1,6 +1,10 @@
-# Programacion1
-Creando repositorio para programación 1 con las acitividades de la semana  1 y 2 <br>
-Nombre: Rodrigo Ezequiel <br>
-apellido:Agüero 
+💻 Programación 1
+Tecnicatura Universitaria en Programación
+📍 Universidad Tecnológica Nacional
 
+✨ Estudiante
+Nombre: Rodrigo Ezequiel Agüero 
+Comisión: M2025- 3
+📂 Descripción del Repositorio
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
 
