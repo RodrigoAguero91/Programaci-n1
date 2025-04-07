@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Programacion1
 Creando repositorio para programación 1
 Nombre: Rodrigo Ezequiel
@@ -15,5 +15,5 @@ Apellido: Aguero
 ## 📂 Descripción del Repositorio
 Este repositorio contiene todos los trabajos prácticos realizados durante la cursada de la materia **Programación 1**. 
 
->>>>>>> f6ca407f3ba760d29f1f79ddb507891111827306
+
 
